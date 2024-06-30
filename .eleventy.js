@@ -1,4 +1,11 @@
 module.exports = function (eleventyConfig) {
+    eleventyConfig.addShortcode('left', function (content) {
+        return `<div class="left">${content}</div>`;
+    });
+    eleventyConfig.addShortcode('right', function (content) {
+        return `<div class="right">${content}</div>`;
+    });
+
     // Watch for SCSS changes
     eleventyConfig.addWatchTarget('./scss/');
 

@@ -37,12 +37,16 @@ header nav a {
   font-weight: bold;
   color: var(--sage-green);
   text-decoration: none;
-  font-size: 110%;
+  font-size: 100%;
   letter-spacing: 0.1rem;
   padding: 0.5rem 1.5rem;
   text-transform: uppercase;
   text-align: center;
   vertical-align: middle;
+}
+header nav a[aria-current] {
+  color: var(--black);
+  background: var(--white);
 }
 header nav a:hover {
   background: var(--white);
@@ -61,6 +65,9 @@ header nav a:hover:hover {
 main {
   text-align: center;
   padding: 20px 0;
+}
+main p {
+  line-height: 1.8;
 }
 
 footer {
