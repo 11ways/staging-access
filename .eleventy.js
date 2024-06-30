@@ -1,5 +1,12 @@
 module.exports = function (eleventyConfig) {
-    eleventyConfig.addPassthroughCopy('css');
+    // Watch for SCSS changes
+    eleventyConfig.addWatchTarget('./scss/');
+
+    // Pass-through file copy for compiled CSS
+    eleventyConfig.addPassthroughCopy('_site/css');
+
+    // Pass-through file copy for images
+    eleventyConfig.addPassthroughCopy('images');
 
     return {
         dir: {
