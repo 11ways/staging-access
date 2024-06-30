@@ -1,14 +1,26 @@
 ---
-title: Staging Access
+title: Voor wie &amp; hoe
 layout: layout.njk
 ---
 
-# Staging Access
+# {{ title }}
 
-'Staging Access’ betekent letterlijk het ‘ensceneren van toegang’, een doel dat we voor ogen hebben met de activiteiten die we uitbouwen. Daarnaast verwijst onze naam naar het op de voorgrond plaatsen van toegankelijkheid, een figuurlijk maar soms ook letterlijk podium bieden aan dit topic. Zo willen we, op kwaliteitsvolle en creatieve manieren, verregaandere participatiemogelijkheden creëren voor een publiek én kunstenaars met een beperking die in het huidige podiumlandschap nog al te vaak op grenzen botsen.
+<div class="intro">
+We begeleiden je graag in je zoektocht naar het zo toegankelijk mogelijk maken van je creatie en/of werking.
+</div>
 
-We doen dit vanuit de overtuiging dat cultuur het gevoelsleven van de mens verzorgt, het algemeen emotioneel en mentaal welzijn bevordert, en ruimte maakt voor verbinding en socialisatie. Het toegankelijk maken van onze cultuursector op een comfortabele manier voor zoveel mogelijk mensen draagt hiertoe bij. Het verlaagt de drempel tot participatie en normaliseert begrippen zoals gelijkwaardigheid en inclusie. Op deze manier geven we uitdrukking en draagkracht aan het omgaan met menselijke kwetsbaarheden en buigen we om naar kracht in plaats van zwakte.
+<div class="two-columns">
 
-Het (zo) toegankelijk (mogelijk) maken van culturele evenementen en de werkingen die deze evenementen organiseren, voor mensen met een beperking, beschouwen we als onze missie. Ofwel doordat wij één en ander uitwerken op vraag van een kunstenaar/collectief/organisatie, ofwel doordat we een kunstenaar/collectief/organisatie hierin begeleiden zodat zij, nu of in de toekomst, ook zelf een toegankelijkheidswerking kunnen uitbouwen. Daarnaast willen we een lans breken voor de inclusie van toegankelijkheid in (politieke) besluitvorming en voor het bredere algemene/publiekelijke besef over en rond toegankelijkheid.
+Ben je een kunstenaar, maak je deel uit van een collectief of organisatie en wil je streven naar een kwaliteitsvolle betrokkenheid van mensen met een beperking? Ben je bijvoorbeeld een theatermaker die een inclusieve voorstelling wil produceren, behoor je tot een instelling die een breder toegankelijk aanbod wil creëren, of ben je een beleidsmaker die meer inclusiviteit wil bevorderen voor de toekomst?
 
-Binnen de culturele sector willen we bouwen aan een nieuwe productielogica, een waarbij de inclusie van toegankelijkheid tot een vanzelfsprekendheid kan uitgroeien. Onderzoek toont immers aan dat toegang tot cultuur voor bezoekers met een beperking nog steeds allesbehalve vanzelfsprekend is en er zelden gekomen kan worden tot echte betrokkenheid en volwaardige deelname. Personen met een beperking staan centraal in wat we doen volgens de principes van Universal Design, wat zoveel wil zeggen als dat we integrale en inclusieve toegankelijkheid voor zoveel mogelijk mensen als doel vooropstellen. Omgekeerd geloven we dat het podiumgebeuren verrijkt kan worden door het kunnen delen van creaties met een bredere groep van toeschouwers, om zo tot een wederzijdse erkenning, zingeving en begrip te komen.
+We willen inspireren en adviseren, analyseren, op maat expertise bieden en begeleiden bij het omzetten van theorie naar praktijk. Samen kunnen we bijvoorbeeld technische mogelijkheden verkennen of interne werkingsprocessen met betrekking tot toegankelijkheid in kaart brengen en uitstippelen. We bieden verschillende vormingen aan die afzonderlijk of als traject kunnen worden georganiseerd.
+
+Bij dit alles staat de totaalbeleving van een bezoeker centraal, vanaf het opzoeken van informatie vooraf tot na afloop van het bezoek. Vier pijlers waar we ons op richten - al dan niet in samenwerking met partners - zijn: infrastructuur, communicatie (waaronder digitale communicatie), hospitality (waaronder basistoegankelijkheid, eerder front of house gericht) en back of house (het procesmatige, productionele, technische, logistieke,...).
+
+Daarnaast kunnen we voor je in kaart brengen welke toegankelijkheidsacties zoal ondernomen kunnen worden op en/of naast het podium, en hoe deze een onderdeel van je creatie en/of werking kunnen worden. Of misschien zoek je iemand die deze acties voor je kan uitwerken en coördineren? Ook als je aangewezen bent op een samenwerking met een specifieke dienstverlener zoals bijvoorbeeld een audiobeschrijver of tolk Vlaamse Gebarentaal, kunnen we samen op zoek gaan naar een ‘vertaling’ die artistiek, dramaturgisch en scenografisch zo sterk mogelijk aanleunt bij je creatie waardoor een gelijkwaardige beleving mogelijk wordt voor een divers publiek. Of misschien werk je samen met coproducenten en/of speelplekken, maar weet je niet goed hoe je je eigen ideeën en wensen kan matchen met hun inspanningen of bereidheid met betrekking tot toegankelijkheid? Ook dan kunnen we bekijken wat Staging Access voor je kan betekenen.
+
+Tot ons brede netwerk behoren onder andere organisaties die werken met/voor/door mensen met een beperking, specifieke dienstverleners zoals audiobeschrijvers, boventitelaars, tolken VGT,..., en we zijn thuis in de culturele sector.
+
+Kortom: jij geeft aan waar je noden of verwachtingen liggen, en we bekijken graag samen op maat hoe we daaraan kunnen beantwoorden.
+
+</div>

@@ -17,3 +17,8 @@ nav a {
 main {
     padding: 20px 0;
 }
+
+img.avatar {
+    width: 100px;
+    border-radius: 50%;
+}
