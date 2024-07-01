@@ -130,6 +130,9 @@ main {
     font-size: 160%;
     margin: 4rem 5rem;
     color: var(--sage-green);
+    @media (max-width: 1000px) {
+        margin: 2rem 0;
+    }
 }
 
 a.cta {
@@ -150,6 +153,9 @@ footer {
     color: #333;
     @media (prefers-color-scheme: dark) {
         color: var(--white);
+    }
+    @media (max-width: 1000px) {
+        margin: 2rem 0;
     }
 }
 
@@ -181,6 +187,9 @@ img.inline {
         margin-bottom: 1rem;
         @media (prefers-color-scheme: dark) {
             filter: invert(1);
+        }
+        @media (max-width: 1000px) {
+            width: 80%;
         }
     }
 }
@@ -217,5 +226,10 @@ div.two-columns {
     figcaption {
         font-size: 80%;
         color: #333;
+    }
+    @media (max-width: 1000px) {
+        img {
+            width: 10rem;
+        }
     }
 }

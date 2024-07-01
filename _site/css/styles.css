@@ -139,6 +139,11 @@ main p {
   margin: 4rem 5rem;
   color: var(--sage-green);
 }
+@media (max-width: 1000px) {
+  .intro {
+    margin: 2rem 0;
+  }
+}
 
 a.cta {
   background-color: var(--gold);
@@ -160,6 +165,11 @@ footer {
 @media (prefers-color-scheme: dark) {
   footer {
     color: var(--white);
+  }
+}
+@media (max-width: 1000px) {
+  footer {
+    margin: 2rem 0;
   }
 }
 
@@ -198,6 +208,11 @@ img.inline.logo {
     filter: invert(1);
   }
 }
+@media (max-width: 1000px) {
+  img.inline.logo {
+    width: 80%;
+  }
+}
 
 div.two-columns {
   columns: 2;
@@ -232,6 +247,11 @@ div.two-columns p {
 .avatar figcaption {
   font-size: 80%;
   color: #333;
+}
+@media (max-width: 1000px) {
+  .avatar img {
+    width: 10rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */
