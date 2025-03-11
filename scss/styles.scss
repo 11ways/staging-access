@@ -43,7 +43,8 @@ body {
 p a {
     color: var(--charcoal);
     text-decoration-color: var(--gold);
-    text-decoration-thickness: 3px;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
     &:hover {
         text-decoration: underline;
         text-decoration-color: var(--gold);
@@ -53,11 +54,18 @@ p a {
     }
 }
 
+p.small {
+    margin-top: 2rem;
+    font-size: 90%;
+    color: #333;
+}
+
 h1 {
     text-transform: capitalize;
     font-size: 2.5rem;
     font-weight: bold;
     text-align: center;
+    display: none;
 }
 
 h2,
@@ -128,7 +136,7 @@ main {
 
 .intro {
     font-size: 160%;
-    margin: 4rem 5rem;
+    margin: 2rem 3rem;
     color: var(--sage-green);
     @media (max-width: 1000px) {
         margin: 2rem 0;
@@ -148,9 +156,12 @@ a.cta {
 footer {
     display: block;
     margin: 5rem 10rem;
-    border-top: 5px solid var(--gold);
+    border-top: 5px solid var(--sage-green);
     text-align: center;
     color: #333;
+    a {
+        text-decoration-color: var(--sage-green);
+    }
     @media (prefers-color-scheme: dark) {
         color: var(--white);
     }

@@ -26,7 +26,7 @@ Joyce Vuylsteke is sociaal-cultureel werker en zet zich in vanuit deze hoedanigh
 
 Waar zij zich voorheen in haar dagelijkse praktijk ontplooide rond het thema armoede, gebruikt zij nu haar knowhow en talenten om het culturele landschap toegankelijk te maken. Hiervoor spoort zij blokkades op die de sector belemmeren om zich tot een divers en inclusief speelveld voor zowel bezoekers als makers te ontwikkelen.
 
-Bijzondere focus ligt op het op maat uitwerken van praktische tools om aan de slag te gaan met toegankelijkheid. Ook richt zij zich op het introduceren van eigentijdse gedragscodes in een werking, het begeleiden van makers in hun creatief proces, en het uitwerken van toegankelijkheidsinitiatieven zoals het creëren van audiobeschrijvingen.
+Bijzondere focus ligt op het op maat uitwerken van praktische tools om aan de slag te gaan met toegankelijkheid. Ook richt zij zich op het introduceren van eigentijdse gedragscodes in een werking, het begeleiden van makers in hun creatief proces, en het esthetisch uitwerken van toegankelijkheidsinitiatieven zoals het editen van audiobeschrijvingen.
 
 </div>
 
